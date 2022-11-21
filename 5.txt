@@ -1,1 +1,6 @@
+Install BeautifulSoup as it enables us to scrape through websites\
+Then,we have to import the module
+Make request and pass it into the url from where we need to download images and text
+Pass these requests into beautiful soup
+We can find images by using img tag
 
